@@ -14,7 +14,7 @@ void display()
         glVertex2f(-0.5, 0.5);
 
         glColor3f(0, 1, 1);
-        glVertex2f(0.5, 0.5);
+        glVertex2f(0.7, 0.7);
     glEnd();
     glFlush();
 }
